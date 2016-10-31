@@ -7,7 +7,7 @@
       },
       { 
       "id":"1" , 
-      "url":"http://qualifygate.com/wp-content/uploads/2015/09/qglogo1.png" 
+      "url":"https://qualifygate.github.io/ads.jpg" 
       }
    ]
 }
