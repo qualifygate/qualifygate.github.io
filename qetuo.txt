@@ -1,17 +1,13 @@
 {
-   "books": 
+   "gvc": 
    [
       { 
-      "language":"Java" , 
-      "edition":"second" 
+      "id":"0" , 
+      "url":"null" 
       },
       { 
-      "language":"C++" , 
-      "edition":"fifth" 
+      "id":"1" , 
+      "url":"fifth" 
       },
-      { 
-      "language":"C" , 
-      "edition":"third" 
-      }
    ]
 }
